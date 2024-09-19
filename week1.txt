@@ -1,2 +1,2 @@
-Thuộc branch: week1 và main
+File week1.txt thuộc brand main
 
